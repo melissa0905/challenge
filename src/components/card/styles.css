@@ -1,0 +1,31 @@
+.card{
+    width: 50%;
+    height: 50vh;
+    margin-top: 10%;
+    background:pink;
+}
+.cardContent{
+    width: 50%;
+    height: 50%;
+    flex-direction: column;
+    display: flex;
+    
+  }
+  .input {
+    margin-top: 4%;
+    width: 80%;
+  }
+  .inputWrapper {
+    display: flex;
+    align-items: flex-end;
+  }
+  .createButton{
+    width: 50%;
+    margin-top: 5%;
+    align-self: center;
+    margin-bottom: 5%;
+  }
+  .checkboxWrapper {
+    display: flex;
+    align-items: center;
+  }

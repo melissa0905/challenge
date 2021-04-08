@@ -1,0 +1,29 @@
+.cont{
+ 
+    width: 100vw;
+    height: 100vh;
+    overflow-x: auto;
+    display: flex;
+}
+.left_cont{
+    width: 20vw;
+    height: 100%;
+    display:flex;
+}
+.right_cont{
+    width: 80vw;
+    height: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+.image {
+    width: 50px;
+    height: 50px;
+
+}
+.txt{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}

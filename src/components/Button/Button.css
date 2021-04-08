@@ -1,0 +1,32 @@
+.button{
+    padding: 7px 10px;
+    border:1px solid transparent;
+    outline:none;
+    background-color: #001bb3;
+    color:#fff;
+    cursor: pointer;
+    font-size: 17px;
+    border-radius: 5px;
+    transition: all .3s ease-in-out;
+}
+
+.outline{
+    border:1px solid #00b368;
+    background-color: #fff;
+    color: #00b368
+}
+
+.outline:hover{
+    background-color: #00b368;
+    color: #fff
+}
+
+.danger{
+    padding: 3px 10px;
+    background-color: red;
+}
+
+.white{
+    background-color: #fff;
+    color:#414141
+}
